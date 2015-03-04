@@ -247,7 +247,7 @@ call s:HL('lCursor', 'none', 'none', 'inverse')
 
 call s:HL('Special', 'orange')
 
-call s:HL('Comment', 'medium', 'none', 'italic')
+call s:HL('Comment', 'dark0', 'dark2', 'italic')
 call s:HL('Todo',    'fg', 'bg', 'bold')
 
 " Generic statement
